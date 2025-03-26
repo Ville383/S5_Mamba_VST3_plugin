@@ -1,5 +1,5 @@
 # S5_Mamba_VST3_plugin
-a real-time plugin using the mamba architecture with the s5 ssm.
+a real-time plugin using the [mamba]([https://yytung.notion.site/](https://arxiv.org/abs/2312.00752)) architecture combined with the [S5]([https://yytung.notion.site/](https://arxiv.org/abs/2208.04933)) SSM.
 
 ## How to run:
 1. install requirements in requirements.txt
