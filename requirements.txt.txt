@@ -1,0 +1,7 @@
+numpy
+torch
+torchaudio
+tensorboard
+tqdm
+auraloss
+s5-pytorch
