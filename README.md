@@ -7,3 +7,5 @@ a real-time plugin using the mamba architecture with the s5 ssm.
 2. run train.ipynb
 3. copy model_weights.json to the plugin folder
 4. execute plugin code
+
+![image](s5_mamba.png)
