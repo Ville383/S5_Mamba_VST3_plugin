@@ -8,4 +8,5 @@ a real-time plugin using the [Mamba](https://arxiv.org/abs/2312.00752) architect
 3. copy model_weights.json to the plugin folder
 4. execute plugin code
 
+## Model architecture
 ![image](s5_mamba.png)
